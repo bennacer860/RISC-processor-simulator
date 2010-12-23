@@ -1,0 +1,6 @@
+LLLI    R2,5 
+LLUI 	R2,5 
+LULI    R2,5
+LUUI    R2,5
+mov R0,R2
+mov R1,R2
